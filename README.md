@@ -1,4 +1,4 @@
-👋 Hi, I’m @kyucchoi
+### 👋 Hi, I’m @kyucchoi
 
 ![kyucchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyucchoi&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyucchoi&layout=compact&title_color=ffffff&bg_color=0d1117)
 
