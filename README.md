@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @kyucchoi
 
-![kyucchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyucchoi&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyucchoi&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
+![kyucchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyucchoi&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyucchoi&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
 
 ### 🔧 Tech Stack
 <div align="left">
