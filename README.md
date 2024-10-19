@@ -4,7 +4,20 @@
 
 ![kyucchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyucchoi&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyucchoi&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
 
-### 🔧 Tech Stack
+
+### 🎓 교육 및 프로젝트 경험
+
+**2024** 국민은행 KB IT's Your Life 5기
+
+
+### 🚀 Projects
+
+|프로그램|프로젝트명|수상|
+|----------|------------|------|
+|KB IT's Your Life 최종 프로젝트|방갑다|🏆 최우수상|
+
+
+### 🛠️ Tech Stack
 
 #### Frontend
 <div align="left">
@@ -37,6 +50,7 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 
 #### Design & Productivity
