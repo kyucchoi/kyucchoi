@@ -17,7 +17,7 @@
 |프로그램|프로젝트명|레포지토리|수상|
 |----------|------------|------|------|
 |KB IT's Your Life 최종 프로젝트|방갑다|<a href="https://github.com/P1-3-kbAnk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/방갑다-FEDE5B?style=flat-square&logoColor=black"/></a>|🏆 최우수상|
-|KB IT's Your Life 해커톤|KBCation|<a href="https://github.com/KB-Tom-Dick-and-Harry"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/KBCation-FEDE5B?style=flat-square&logoColor=black"/></a>|💡 아이디어상|
+|KB 해커톤|KBCation|<a href="https://github.com/KB-Tom-Dick-and-Harry"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/KBCation-FFA500?style=flat-square&logoColor=black"/></a>|💡 아이디어상|
 
 
 <br>
