@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @kyucchoi!!
+### 👋 Hi, I’m @kyucchoi!
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&color=timeAuto&text=kyucchoi&animation=fadeIn&desc=&descAlignY=56&reversal=false&fontAlignY=40&fontColor=ffffff)
 
