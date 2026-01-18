@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @kyucchoi!
 
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&color=timeAuto&text=kyucchoi&animation=fadeIn&desc=&descAlignY=56&reversal=false&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=300&color=timeAuto&text=kyucchoi&animation=fadeIn&desc=&descAlignY=56&reversal=false&fontAlignY=40)
 
 ![kyucchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyucchoi&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyucchoi&layout=compact&title_color=ffffff&bg_color=0d1117&border_radius=10)
